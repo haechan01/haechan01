@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haechan Oh
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Development and Data Science
 - 🌱 I’m currently learning Minerva Univeristy
 - 💞️ I’m looking to collaborate on cool projects or internships
 - 📫 Reach me out through haechan24@uni.minerva.edu
