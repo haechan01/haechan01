@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haechan Oh
 - 👀 I’m interested in Software Development and Data Science
-- 🌱 I’m Computer Science Junior at Minerva Univeristy
+- 🌱 I’m studying Computer Science at Minerva Univeristy
 - 💞️ I’m looking to collaborate on cool projects or internships
 - 📫 Reach me out through haechan24@uni.minerva.edu
 
